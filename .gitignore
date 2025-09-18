@@ -1,0 +1,54 @@
+# Сборка
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Пакеты
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Конфигурация
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Логи
+*.log
+
+# Кэш и временные файлы
+*.vspscc
+*.vssscc
+*.tmp
+*.temp
+*.pidb
+*.svclog
+*.pdb
+
+# Rider / VS Code / VS
+.vscode/
+.idea/
+.vs/
+
+# Тестовые результаты
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Автоматическая генерация
+GeneratedFiles/
+*.g.dart
+
+# OS-специфичные
+.DS_Store
+Thumbs.db
+desktop.ini

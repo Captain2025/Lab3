@@ -1,0 +1,14 @@
+C:\Design Soft\Lab2\Lab3\bin\Debug\net9.0\Lab3.exe
+C:\Design Soft\Lab2\Lab3\bin\Debug\net9.0\Lab3.deps.json
+C:\Design Soft\Lab2\Lab3\bin\Debug\net9.0\Lab3.runtimeconfig.json
+C:\Design Soft\Lab2\Lab3\bin\Debug\net9.0\Lab3.dll
+C:\Design Soft\Lab2\Lab3\bin\Debug\net9.0\Lab3.pdb
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\Lab3.AssemblyInfoInputs.cache
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\Lab3.AssemblyInfo.cs
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\Lab3.dll
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\refint\Lab3.dll
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\Lab3.pdb
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\Lab3.genruntimeconfig.cache
+C:\Design Soft\Lab2\Lab3\obj\Debug\net9.0\ref\Lab3.dll
